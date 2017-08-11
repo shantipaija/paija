@@ -41,7 +41,7 @@
 					</div>
 					<div id="primary-navbar-collapse" class="collapse navbar-collapse">
 				
-						<?php //wp_nav_menu(); ?>
+					
 						
 						<?php 
 						bootstrap_nav(); 
